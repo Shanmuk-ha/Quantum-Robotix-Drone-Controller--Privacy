@@ -4,11 +4,11 @@ This repository hosts the legal pages for the **Quantum Robotix Drone Controller
 
 ## Pages
 
-- [Privacy Policy](https://YOURUSERNAME.github.io/s2fly-privacy/)
-- [Terms of Service](https://YOURUSERNAME.github.io/s2fly-privacy/terms.html)
+- [Privacy Policy](https://github.com/Shanmuk-ha/Quantum-Robotix-Drone-Controller--Privacy.git)
+- [Terms of Service](https://github.com/Shanmuk-ha/Quantum-Robotix-Drone-Controller--Privacy/blob/main/terms.html)
 
 ## App
 
-S2 Fly is a professional drone controller app for Android.  
+Quantum Robotix Drone Controller is a professional drone controller app for Android.  
 Developer: Quantum Robotix  
 Contact: info@quantumrobotix.com
