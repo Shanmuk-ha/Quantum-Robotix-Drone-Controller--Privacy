@@ -1,6 +1,6 @@
-# S2 Fly — Legal
+# Quantum Robotix Drone Controller — Legal
 
-This repository hosts the legal pages for the **S2 Fly** app by Quantum Robotix.
+This repository hosts the legal pages for the **Quantum Robotix Drone Controller** app by Quantum Robotix.
 
 ## Pages
 
