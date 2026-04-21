@@ -1,6 +1,6 @@
-# Quantum Robotix Drone Controller — Legal
+# QR Drone Controller — Legal
 
-This repository hosts the legal pages for the **Quantum Robotix Drone Controller** app by Quantum Robotix.
+This repository hosts the legal pages for the **QR Drone Controller** app by Quantum Robotix.
 
 ## Pages
 
@@ -9,6 +9,6 @@ This repository hosts the legal pages for the **Quantum Robotix Drone Controller
 
 ## App
 
-Quantum Robotix Drone Controller is a professional drone controller app for Android.  
+QR Drone Controller is a professional drone controller app for Android.  
 Developer: Quantum Robotix  
 Contact: info@quantumrobotix.com
